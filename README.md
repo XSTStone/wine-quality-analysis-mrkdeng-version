@@ -1,3 +1,6 @@
+# Wine-quality-analysis
+Exploratory data analysis for the [Wine_quality dataset](https://archive.ics.uci.edu/ml/datasets/wine+quality) from UCI Machine Learning Repository.
 
-This python program works with the Wine_quality dataset. The analysis includes data preprocessing tasks, business understanding, data understanding, data transformations, and PCA algotirhm.  
+Full Analysis: [Jupyter Notebook]() 
+
 
